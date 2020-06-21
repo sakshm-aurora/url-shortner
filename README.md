@@ -2,8 +2,6 @@
 
 https://hub.docker.com/r/saksham1999/url-shortner
 
-How To :
-
 # Pull
 docker pull saksham1999/url-shortner:first 
 
