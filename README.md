@@ -9,5 +9,5 @@ docker pull saksham1999/url-shortner:first
 docker run -ti saksham1999/url-shortner:first 
 
 # Usage
-Enter the link : [enter long url here]
+Enter the link : [enter long url here] <br>
 [gives out short url]
